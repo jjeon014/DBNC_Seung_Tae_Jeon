@@ -1,0 +1,8 @@
+Q2
+
+a)  The mapping function takes in one parameter as integer variable(5 digits) in   
+    the case of example provided in spreadsheet and returns 3 digits long alphanumeric.
+    The mapping function simply takes one key value and returns a value that is mapped 
+    to that particular key value input
+
+//  I am not sure about the rest of questions
